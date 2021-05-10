@@ -1,7 +1,7 @@
 <h1 align="center">Ola, me chamo Carlos Eduardo....</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmoraeseduardo&show_icons=true&locale=en" alt="carlosmoraeseduardo" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmoraeseduardo&show_icons=true&locale=en&layout=compact" alt="carlosmoraeseduardo" /></p>
+<p></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
