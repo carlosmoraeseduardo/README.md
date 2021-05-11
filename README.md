@@ -24,6 +24,24 @@
     <a href="https://pt-br.reactjs.org/" target="_blank"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> 
     </a>   
+    <a href="" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>     
+    <a href="" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>     
+    <a href="" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://getbootstrap.com/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="javascript" width="40" height="40"/> 
+    </a>     
  </p>
 
 
